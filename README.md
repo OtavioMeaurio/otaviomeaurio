@@ -36,6 +36,8 @@
 
 <img src="https://media.tenor.com/fT9yMSNVBlAAAAAM/meliodas.gif " height="200" width="440" >
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
