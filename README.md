@@ -1,4 +1,4 @@
-### Olá! Eu sou o Otávio Meaurio 👋
+### Olá! Eu sou o Otávio Meaurio 👾
 
 
 
