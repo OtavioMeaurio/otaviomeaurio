@@ -6,24 +6,19 @@
   <a href="https://github.com/otaviomeaurio">
 </div>
 
-<div>
-<a href="https://github.com/OtavioMeaurio">
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=vivianeagnoletto&show_icons=true&theme=light&include_all_comits=true&count_private=true"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianeagnoletto&layout-compact&langs_count=16&theme=light"/>
+![OtavioMeaurio GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioMeaurio&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMeaurio&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+
 
 
   <div  style="display: inline_block"><br>
-    <img align="center" alt="Luviti-HTML" height="auto" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Luviti-CSS" height="auto" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Luviti-JS" height="auto" width="auto" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the- badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Luviti-Mysql" height="auto" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
-
-  
-  
-</div>
+      <h1 align="center">MY SKILLS</h1>
+       <img align="center" alt="Luviti-HTML" height="auto" width="auto" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+       <img align="center" alt="Luviti-CSS" height="auto" width="auto" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+       <img align="center" alt="Luviti-JS" height="auto" width="auto" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the- badge&logo=javascript&logoColor=black">
+       <img align="center" alt="Luviti-Mysql" height="auto" width="auto" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  </div>
   
   ##
  
