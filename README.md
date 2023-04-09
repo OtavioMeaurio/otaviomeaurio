@@ -6,8 +6,7 @@
   <a href="https://github.com/otaviomeaurio">
 </div>
 
-![OtavioMeaurio GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioMeaurio&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMeaurio&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioMeaurio&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMeaurio&layout=compact&langs_count=16&theme=great-gatsby"/>
 
 
 
